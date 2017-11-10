@@ -1,0 +1,8 @@
+c:\users\eva\documents\visual studio 2015\Projects\Weather\Weather.Core\obj\Debug\Weather.Core.csprojResolveAssemblyReference.cache
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Core\bin\Debug\Weather.Core.dll
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Core\bin\Debug\Weather.Core.pdb
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Core\obj\Debug\Weather.Core.dll
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Core\obj\Debug\Weather.Core.pdb
+C:\Users\EVA\Documents\Visual Studio 2015\Projects\Weather\Weather.Core\obj\Debug\Weather.Core.csproj.CoreCompileInputs.cache

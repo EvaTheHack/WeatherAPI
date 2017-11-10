@@ -1,0 +1,11 @@
+c:\users\eva\documents\visual studio 2015\Projects\Weather\Weather.Console\bin\Debug\Weather.Console.exe.config
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Console\bin\Debug\Weather.Console.exe
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Console\bin\Debug\Weather.Console.pdb
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Console\bin\Debug\Weather.Core.dll
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Console\bin\Debug\Weather.Core.pdb
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Console\obj\Debug\Weather.Console.csprojResolveAssemblyReference.cache
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Console\obj\Debug\Weather.Console.exe
+C:\Users\EVA\documents\visual studio 2015\Projects\Weather\Weather.Console\obj\Debug\Weather.Console.pdb
+C:\Users\EVA\Documents\Visual Studio 2015\Projects\Weather\Weather.Console\obj\Debug\Weather.Console.csproj.CoreCompileInputs.cache
